@@ -1,7 +1,7 @@
 # nudge
 
 
-Nudge is an multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates. Written in Swift 5.5 and SwiftUI 5.2, Nudge will only work on macOS Big Sur 11 and later.
+Nudge is an multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates. Written in Swift 5.5 and SwiftUI 5.2, Nudge will only work on macOS Monterey 12 and later.
 
 ## Nudge Functionality Overview
 Nudge consists of the following three components:
