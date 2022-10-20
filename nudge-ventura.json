@@ -25,21 +25,10 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT212585"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
       "requiredInstallationDate": "2022-09-14T00:00:00Z",
       "requiredMinimumOSVersion": "12.6",
-      "targetedOSVersions": [
-        "12.0",
-        "12.0.1",
-        "12.1",
-        "12.2",
-        "12.2.1",
-        "12.3",
-        "12.3.1",
-        "12.4",
-        "12.5",
-        "12.5.1"
-      ]
+      "targetedOSVersionsRule": "12"
     }
   ],
   "userExperience": {
