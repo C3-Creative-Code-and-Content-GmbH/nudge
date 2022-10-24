@@ -28,7 +28,7 @@
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
       "requiredInstallationDate": "2022-09-14T00:00:00Z",
       "requiredMinimumOSVersion": "12.6",
-      "targetedOSVersionsRule": "11"
+      "targetedOSVersionsRule": "12"
     }
   ],
   "userExperience": {
