@@ -6,23 +6,23 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
         },
         {
           "_language": "fr",
-          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT213268"
         },
         {
           "_language": "de",
-          "aboutUpdateURL": "https://support.apple.com/de-de/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/de-de/HT213268"
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
