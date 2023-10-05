@@ -6,40 +6,29 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT212585",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213268",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         },
         {
           "_language": "es",
-          "aboutUpdateURL": "https://support.apple.com/es-es/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/es-es/HT213268"
         },
         {
           "_language": "fr",
-          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/fr-fr/HT213268"
         },
         {
           "_language": "de",
-          "aboutUpdateURL": "https://support.apple.com/de-de/HT212585"
+          "aboutUpdateURL": "https://support.apple.com/de-de/HT213268"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-09-14T00:00:00Z",
-      "requiredMinimumOSVersion": "12.6",
-      "targetedOSVersions": [
-        "12.0",
-        "12.0.1",
-        "12.1",
-        "12.2",
-        "12.2.1",
-        "12.3",
-        "12.3.1",
-        "12.4",
-        "12.5",
-        "12.5.1"
-      ]
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2023-10-10T00:00:00Z",
+      "requiredMinimumOSVersion": "14.0",
+      "targetedOSVersionsRule": "default"
     }
   ],
   "userExperience": {
