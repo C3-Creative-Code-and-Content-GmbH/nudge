@@ -26,8 +26,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-08-20T00:00:00Z",
-      "requiredMinimumOSVersion": "14.6.1",
+      "requiredInstallationDate": "2024-10-19T00:00:00Z",
+      "requiredMinimumOSVersion": "14.7.0",
       "targetedOSVersionsRule": "default"
     }
   ],
