@@ -25,9 +25,9 @@
           "aboutUpdateURL": "https://support.apple.com/de-de/HT213268"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-11-26T00:00:00Z",
-      "requiredMinimumOSVersion": "14.7.1",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sequoia.app",
+      "requiredInstallationDate": "2025-01-17T00:00:00Z",
+      "requiredMinimumOSVersion": "15.2",
       "targetedOSVersionsRule": "default"
     }
   ],
